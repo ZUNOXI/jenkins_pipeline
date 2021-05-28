@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sba.todo</groupId>
-	<artifactId>TodoList</artifactId>
+	<artifactId>CICDTEST</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TodoList</name>
+	<name>CICDTEST</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
